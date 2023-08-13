@@ -1,0 +1,83 @@
+[
+    {
+      "title": "iPhone 14 Pro Max",
+      "picture": "https://store.apple.com/xc/images/iphone/14/hero/iphone-14-pro-max-gold-hero.jpg",
+      "price": "1,099"
+    },
+    {
+      "title": "Samsung Galaxy S23 Ultra",
+      "picture": "https://www.samsung.com/us/smartphones/galaxy-s23-ultra/images/hero/galaxy-s23-ultra-hero.jpg",
+      "price": "1,199"
+    },
+    {
+      "title": "MacBook Pro M2",
+      "picture": "https://www.apple.com/macbook-pro/images/hero/macbook-pro-m2-hero.jpg",
+      "price": "1,299"
+    },
+    {
+      "title": "AirPods Pro",
+      "picture": "https://store.apple.com/xc/images/headphones/airpods-pro/hero/airpods-pro-hero.jpg",
+      "price": "249"
+    },
+    {
+      "title": "Apple Watch Series 7",
+      "picture": "https://store.apple.com/xc/images/watch/series-7/hero/watch-series-7-hero.jpg",
+      "price": "399"
+    },
+    {
+      "title": "Sony WH-1000XM5",
+      "picture": "https://www.sony.com/electronics/headband-headphones/wh-1000xm5/images/hero/wh-1000xm5-hero-large.jpg",
+      "price": "399"
+    },
+    {
+      "title": "Bose QuietComfort 45",
+      "picture": "https://www.bose.com/en_us/products/headphones/quietcomfort-45.html",
+      "price": "299"
+    },
+    {
+      "title": "Jabra Elite 7 Pro",
+      "picture": "https://www.jabra.com/ca/en/products/jabra-elite-7-pro",
+      "price": "299"
+    },
+    {
+      "title": "Beats Studio Buds",
+      "picture": "https://www.beatsbydre.com/ca_en/studio-buds",
+      "price": "199"
+    },
+    {
+      "title": "Samsung Galaxy Watch4 Classic",
+      "picture": "https://www.samsung.com/us/watches/galaxy-watch4-classic/images/hero/galaxy-watch4-classic-hero.jpg",
+      "price": "349"
+    },
+    {
+      "title": "Apple Watch SE",
+      "picture": "https://store.apple.com/xc/images/watch/se/hero/watch-se-hero.jpg",
+      "price": "279"
+    },
+    {
+      "title": "Garmin Forerunner 245 Music",
+      "picture": "https://buy.garmin.com/en-US/US/p/641406",
+      "price": "299"
+    },
+    {
+      "title": "Polar M430",
+      "picture": "https://www.polar.com/us-en/products/m430",
+      "price": "269"
+    },
+    {
+      "title": "Amazfit Bip U Pro",
+      "picture": "https://www.amazfit.com/us/bip-u-pro.html",
+      "price": "99"
+    },
+    {
+      "title": "Fitbit Charge 5",
+      "picture": "https://www.fitbit.com/products/charge-5",
+      "price": "179"
+    },
+    {
+      "title": "Anker Soundcore Life P3",
+      "picture": "https://www.anker.com/products/a3992011",
+      "price": "59.9"
+    }
+    ]
+  
